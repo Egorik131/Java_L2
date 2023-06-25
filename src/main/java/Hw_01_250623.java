@@ -1,5 +1,4 @@
 import java.util.Random;
-import java.util.Scanner;
 
 /**
  * 1. Выбросить случайное целое число в диапазоне от 0 до 2000 и сохранить в i
