@@ -1,10 +1,3 @@
-import java.io.File;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.sql.SQLOutput;
-
-
 /**
  * 1) Дана строка sql-запроса "select * from students where ".
  * Сформируйте часть WHERE этого запроса, используя StringBuilder или String.
