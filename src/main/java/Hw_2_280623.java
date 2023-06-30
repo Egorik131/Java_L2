@@ -73,9 +73,11 @@ public class Hw_2_280623 {
         count_field = sql_array_2.length/count_items;
 
         for (int i = 0; i < count_items; i++) {
-            System.out.println("Студент " + sql_array_2[count_field*i+1] +
-                               " получил " + sql_array_2[count_field*i+3] +
-                               " по предмету " + sql_array_2[count_field*i+5] + ".");
+            result_2.append("Студент " + sql_array_2[count_field*i+1] +
+                    " получил " + sql_array_2[count_field*i+3] +
+                    " по предмету " + sql_array_2[count_field*i+5] + ".\n");
         }
+        System.out.println(result_2);
     }
+
 }
