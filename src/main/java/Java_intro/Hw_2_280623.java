@@ -1,3 +1,5 @@
+package Java_intro;
+
 /**
  * 1) Дана строка sql-запроса "select * from students where ".
  * Сформируйте часть WHERE этого запроса, используя StringBuilder или String.

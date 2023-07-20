@@ -1,5 +1,6 @@
+package Java_intro;
+
 import java.util.ArrayList;
-import java.util.Map;
 
 public class Sem_6_hashSet {
 

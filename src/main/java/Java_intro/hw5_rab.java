@@ -1,3 +1,5 @@
+package Java_intro;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
@@ -17,7 +19,7 @@ public class hw5_rab {
 //import java.util.*;
 //
 //
-//    public class Hw_5_140723 {
+//    public class Java_intro.Hw_5_140723 {
 //
 //        static Scanner scanner;
 //
