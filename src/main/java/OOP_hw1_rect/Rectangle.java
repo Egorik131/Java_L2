@@ -22,11 +22,11 @@ public class Rectangle {
     }
 
     public int getHeight() {
-        return this.height;
+        return height;
     }
 
     public int getWidth() {
-        return this.width;
+        return width;
     }
 
     public int calculateArea(Rectangle rectangle) {

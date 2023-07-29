@@ -7,8 +7,8 @@ public class Cat {
     private int age;
     private Owner ownerName;
 
-    public Cat() {
-    }
+//    public Cat() {
+//    }
 
     public void setOwnerName(Owner ownerName) {
         this.ownerName = ownerName;
