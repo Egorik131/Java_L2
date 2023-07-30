@@ -15,7 +15,7 @@ public class Main {
         IFuncInt value_2;
         IFuncInt value_3;
 
-        value_1 = (a, b) -> a + b;
+        value_1 = (a, b) -> a - b;
         value_2 = (a, b) -> a * b;
         value_3 = (a, b) -> 2 * (a + b);
 
