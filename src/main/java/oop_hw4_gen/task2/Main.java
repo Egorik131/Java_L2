@@ -1,7 +1,5 @@
 package oop_hw4_gen.task2;
 
-import java.util.ArrayList;
-
 public class Main {
     public static void main(String[] args) {
         Integer[] intArray = {1, 2, 3, 4};
