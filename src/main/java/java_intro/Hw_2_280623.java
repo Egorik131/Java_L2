@@ -1,4 +1,4 @@
-package Java_intro;
+package java_intro;
 
 /**
  * 1) Дана строка sql-запроса "select * from students where ".

@@ -1,7 +1,6 @@
-package Java_intro;
+package java_intro;
 
 import java.util.ArrayList;
-import java.util.Objects;
 
 public class Less_3_Object {
     public static void main(String[] args) {

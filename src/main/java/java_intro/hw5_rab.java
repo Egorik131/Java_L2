@@ -1,9 +1,4 @@
-package Java_intro;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
+package java_intro;
 
 public class hw5_rab {
 

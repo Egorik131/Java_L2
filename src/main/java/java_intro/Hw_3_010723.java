@@ -1,4 +1,4 @@
-package Java_intro;
+package java_intro;
 
 import java.util.ArrayList;
 import java.util.Comparator;

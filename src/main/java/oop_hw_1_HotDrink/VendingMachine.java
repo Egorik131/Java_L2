@@ -1,4 +1,4 @@
-package OOP_hw_1_HotDrink;
+package oop_hw_1_HotDrink;
 
 public interface VendingMachine {
 

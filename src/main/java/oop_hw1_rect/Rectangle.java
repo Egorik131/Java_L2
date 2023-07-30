@@ -1,4 +1,4 @@
-package OOP_hw1_rect;
+package oop_hw1_rect;
 
 public class Rectangle {
     private int width;

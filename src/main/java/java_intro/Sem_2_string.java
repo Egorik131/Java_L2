@@ -1,10 +1,9 @@
-package Java_intro;
+package java_intro;
 
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.lang.reflect.Array;
 
 public class Sem_2_string {
     public static void main(String[] args) {

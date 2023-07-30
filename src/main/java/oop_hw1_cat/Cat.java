@@ -1,4 +1,4 @@
-package OOP_hw1_cat;
+package oop_hw1_cat;
 
 import java.text.MessageFormat;
 

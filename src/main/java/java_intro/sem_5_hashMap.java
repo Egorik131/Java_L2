@@ -1,4 +1,4 @@
-package Java_intro;/*
+package java_intro;/*
 Создать мапу, обобщение целое число и строка.
 1)Заполнить 10 значениями, ключ случайное число от 0 до 1000 а значение, название буквы этого случайного числа.
 2) вывести в порядке ввода (вместо hashmap linkedhashmap)
@@ -6,10 +6,7 @@ package Java_intro;/*
 4) еще одну мапу и из первой мапой удалить ключ значения у которых совпадают ключи есть во второй
  */
 
-import java.awt.*;
 import java.util.*;
-import java.util.List;
-import java.util.stream.Stream;
 
 public class sem_5_hashMap {
 

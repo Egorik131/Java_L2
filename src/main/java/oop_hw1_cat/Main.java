@@ -1,4 +1,4 @@
-package OOP_hw1_cat;
+package oop_hw1_cat;
 
 /*
 Создайте класс "Кот" (Cat) со следующими свойствами:
