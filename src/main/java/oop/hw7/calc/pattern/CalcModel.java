@@ -52,19 +52,19 @@ class Sub extends CalcMathFunc {
 
 
 class OperationFactory {
-    public CalcMathFunc createOperator(char ch) {
+    public static CalcMathFunc createOperation(char ch) {
         CalcMathFunc operator = null;
         switch (ch) {
             case '+':
                 operator = new Sum();
                 break;
-            case '-':
+            case '/':
                 operator = new Div();
                 break;
-            case '/':
+            case '*':
                 operator = new Mul();
                 break;
-            case '*':
+            case '-':
                 operator = new Sub();
                 break;
             default:
