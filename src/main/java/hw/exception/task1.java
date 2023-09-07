@@ -15,10 +15,10 @@ public class task1 {
         System.out.println(num);
     }
 
-    public static float getFloatInput(String prompt) {
+    public static float getFloatInput(String message) {
         Scanner scanner = new Scanner(System.in);
         while (true) {
-            System.out.print(prompt);
+            System.out.print(message);
             try {
                 return Float.parseFloat(scanner.nextLine());
             } catch (NumberFormatException e) {
