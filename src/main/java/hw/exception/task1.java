@@ -11,11 +11,11 @@ import java.util.Scanner;
 
 public class task1 {
     public static void main(String[] args) {
-        float num = getFloatInput("Введите дробное число: ");
+        float num = floatInput("Введите дробное число: ");
         System.out.println(num);
     }
 
-    public static float getFloatInput(String message) {
+    public static float floatInput(String message) {
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.print(message);
